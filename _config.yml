@@ -1,2 +1,5 @@
 collections:
   portfolio:
+
+gems:
+  - jekyll-seo-tag
